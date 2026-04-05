@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Adil 👋
 
-<!--
-**gazza-bot/gazza-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> IT Student at Universitas Brawijaya — passionate about Machine Learning & Web Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+I'm an Information Technology student at **Universitas Brawijaya** with a strong enthusiasm for technology, currently focusing on **Machine Learning** and **Web Development**. I enjoy building things that are both functional and meaningful.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| Styling | TailwindCSS |
+| Languages | Python · JavaScript · Java |
+
+---
+
+## 🚀 Projects
+
+### 🌐 Eternity Generation — Website
+A website project built to store the memories of my High School Class.
+## <a href="https://eternityspace.vercel.app">Visit Here!</a>
+---
+
+*Currently open to internship opportunities and collaborative projects.* ✨
